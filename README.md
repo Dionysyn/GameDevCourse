@@ -7,7 +7,7 @@ Welcome!
 <h1> Course Schedule:</h1>
 
 <h2> Class 0:</h2>
-Introduction to Game Development
+Introduction to Game Development<br>
 • Java Language<br>
 • Game Logic<br>
 <br>
@@ -29,6 +29,7 @@ Introduction to Game Logic <br>
 <br>
 
 <h2> Class 3:</h2>
+Introduction to Graphics <br>
 • Java Language<br>
 • Game Logic<br>
 <br>
