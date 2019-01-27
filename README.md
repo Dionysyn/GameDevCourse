@@ -24,6 +24,7 @@ Introduction to Programming <br>
 Introduction to Game Logic <br>
 • BattleShip Board Game<br>
 • Game Logic<br>
+• Group Lab<br>
 • Other Languages (python/javascript)<br>
 
 <br>
